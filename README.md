@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm milad falah</h1>
-<h3 align="center">## 🚀 About Me I'm a backend developer specializing in **Node.js** and **Express**, with a keen interest in all things backend. My journey in tech has been driven by my curiosity and a relentless pursuit of learning. I thrive in environments that challenge me and I'm always on the lookout to learn more and sharpen my skills. ## 💡 I Believe in Innovation I consider myself an ideator with a knack for assessing situations and nurturing ideas into something tangible. My approach is to always think outside the box and bring fresh perspectives to the table, which has served me well in my professional journey so far. ## 🛠 Skills - **Languages**: Proficient in JavaScript (especially Node.js and Express) - **Backend Tools**: Familiar with a wide array of backend tools and technologies, including but not limited to databases (both SQL and NoSQL), RESTful APIs, GraphQL, and more. - **Soft Skills**: Strong problem-solving skills, innovative thinking, and a collaborative team player. ## 🌱 I’m currently learning The tech world is ever-evolving, and so is my learning list. Currently, I'm diving deeper into cloud technologies, microservices architecture, and containerization tools like Docker and Kubernetes.
+<h1 align="left">Hi 👋, I'm Milad Falah</h1>
+<h3 align="left">I'm a backend developer specializing in <strong>Node.js</strong> and <strong>Express</strong>, with a keen interest in all things backend. My journey in tech has been driven by my curiosity and a relentless pursuit of learning. I thrive in environments that challenge me and I'm always on the lookout to learn more and sharpen my skills.</h3>
+
+<h2 align="left"><strong>💡 I Believe in Innovation</strong></h2>
+<p align="left">I consider myself an ideator with a knack for assessing situations and nurturing ideas into something tangible. My approach is to always think outside the box and bring fresh perspectives to the table, which has served me well in my professional journey so far.</p>
+
+<h2 align="left"><strong>🛠 Skills</strong></h2>
+<ul>
+  <li><strong>Languages</strong>: Proficient in JavaScript (especially Node.js and Express)</li>
+  <li><strong>Backend Tools</strong>: Familiar with a wide array of backend tools and technologies, including but not limited to databases (both SQL and NoSQL), RESTful APIs, GraphQL, and more.</li>
+  <li><strong>Soft Skills</strong>: Strong problem-solving skills, innovative thinking, and a collaborative team player.</li>
+</ul>
+
+<h2 align="left"><strong>🌱 I’m currently learning</strong></h2>
+<p align="left">The tech world is ever-evolving, and so is my learning list. Currently, I'm diving deeper into cloud technologies, microservices architecture, and containerization tools like Docker and Kubernetes.</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
